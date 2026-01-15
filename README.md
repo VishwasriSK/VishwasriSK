@@ -58,12 +58,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishwasriSK&show_icons=true&theme=default"/>
-</p>
-
----
-
 ### ✨ Quote I Live By
 > "Build what matters. Learn every day. Never stop growing."
